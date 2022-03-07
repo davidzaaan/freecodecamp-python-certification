@@ -1,3 +1,6 @@
+# Project 2
+''' Time calculator project solution freeCodeCamp '''
+
 def add_time(curr_hour, time_lapse, *day):
     ##### Parameters parsing #####
     strt_hour = int(curr_hour.split(' ')[0].split(':')[0])
